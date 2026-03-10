@@ -5,3 +5,4 @@
 4 Day 4: Added struct examples
 5 Day 5: Edited Example2.sol
 6 Day 6: Learned arrays and loops
+7 Day 7: Added helper functions
