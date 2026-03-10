@@ -22,3 +22,4 @@
 21 Day 21: Updated progress.txt
 22 Day 22: Added ERC20 example
 23 Day 23: Notes on NFT contracts
+24 Day 24: Added ERC721 snippet
