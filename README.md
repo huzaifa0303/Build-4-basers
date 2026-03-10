@@ -24,3 +24,4 @@
 23 Day 23: Notes on NFT contracts
 24 Day 24: Added ERC721 snippet
 25 Day 25: Edited Example2.sol
+26 Day 26: Progress note
