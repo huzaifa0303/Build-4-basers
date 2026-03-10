@@ -30,3 +30,4 @@
 29 Day 29: Notes on testing contracts
 30 Day 30: Added small helper snippet
 31 Day 31: Progress update
+32 Day 32: Edited Example2.sol functions
