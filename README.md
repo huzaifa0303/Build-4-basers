@@ -29,3 +29,4 @@
 28 Day 28: Edited fallback function
 29 Day 29: Notes on testing contracts
 30 Day 30: Added small helper snippet
+31 Day 31: Progress update
