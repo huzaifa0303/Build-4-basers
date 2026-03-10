@@ -43,3 +43,4 @@
 43 Day 43: Added fallback example
 44 Day 44: Edited Example2.sol logic
 45 Day 45: Added modifier practice
+46 Day 46: Progress.txt notes
