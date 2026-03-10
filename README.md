@@ -36,3 +36,4 @@
 35 Day 35: Edited comments
 36 Day 36: Added nested functions
 37 Day 37: Progress.txt update
+38 Day 38: Small code optimization
