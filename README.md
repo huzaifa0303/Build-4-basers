@@ -10,3 +10,4 @@
 9 Day 9: Practiced modifiers
 10 Day 10: Added small code snippet
 11 Day 11: Edited contract comments
+12 Day 12: Added mapping examples
