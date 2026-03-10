@@ -20,3 +20,4 @@
 19 Day 19: Small contract bug fix
 20 Day 20: Added multi-line function
 21 Day 21: Updated progress.txt
+22 Day 22: Added ERC20 example
