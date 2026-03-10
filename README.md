@@ -17,3 +17,4 @@
 16 Day 16: Progress update with lessons
 17 Day 17: Added event practice
 18 Day 18: Edited helper functions
+19 Day 19: Small contract bug fix
