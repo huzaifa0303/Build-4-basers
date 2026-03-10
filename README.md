@@ -40,3 +40,4 @@
 39 Day 39: Added struct practice
 40 Day 40: Edited Example2.sol events
 41 Day 41: Added 42
+43 Day 43: Added fallback example
