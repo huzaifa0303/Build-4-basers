@@ -27,3 +27,4 @@
 26 Day 26: Progress note
 27 Day 27: Added require statements
 28 Day 28: Edited fallback function
+29 Day 29: Notes on testing contracts
