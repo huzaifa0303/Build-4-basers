@@ -15,3 +15,4 @@
 14 Day 14: Edited Example2.sol logic
 15 Day 15: Added learning references
 16 Day 16: Progress update with lessons
+17 Day 17: Added event practice
