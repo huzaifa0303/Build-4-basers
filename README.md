@@ -19,3 +19,4 @@
 18 Day 18: Edited helper functions
 19 Day 19: Small contract bug fix
 20 Day 20: Added multi-line function
+21 Day 21: Updated progress.txt
