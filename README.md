@@ -8,3 +8,4 @@
 7 Day 7: Added helper functions
 8 Day 8: Updated progress.txt
 9 Day 9: Practiced modifiers
+10 Day 10: Added small code snippet
