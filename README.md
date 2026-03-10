@@ -38,3 +38,4 @@
 37 Day 37: Progress.txt update
 38 Day 38: Small code optimization
 39 Day 39: Added struct practice
+40 Day 40: Edited Example2.sol events
