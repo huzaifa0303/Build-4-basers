@@ -33,3 +33,4 @@
 32 Day 32: Edited Example2.sol functions
 33 Day 33: Added array examples
 34 Day 34: Notes on loops
+35 Day 35: Edited comments
