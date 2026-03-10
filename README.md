@@ -44,3 +44,4 @@
 44 Day 44: Edited Example2.sol logic
 45 Day 45: Added modifier practice
 46 Day 46: Progress.txt notes
+47 Day 47: Small code snippet added
