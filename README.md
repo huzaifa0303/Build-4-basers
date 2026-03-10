@@ -39,3 +39,4 @@
 38 Day 38: Small code optimization
 39 Day 39: Added struct practice
 40 Day 40: Edited Example2.sol events
+41 Day 41: Added learning notes
