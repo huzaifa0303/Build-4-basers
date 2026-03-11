@@ -79,3 +79,4 @@
 79 Day 79: Edited Example2.sol comments
 80 Day 80: Milestone update
 81 Day 81: Added helper functions
+82 Day 82: Edited fallback function
