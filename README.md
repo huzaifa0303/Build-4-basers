@@ -81,3 +81,4 @@
 81 Day 81: Added helper functions
 82 Day 82: Edited fallback function
 83 Day 83: Progress.txt update
+84 Day 84: Added ERC20 practice
