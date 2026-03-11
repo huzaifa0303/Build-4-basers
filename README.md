@@ -72,3 +72,4 @@
 72 Day 72: Edited Example2.sol events
 73 Day 73: Progress update
 74 Day 74: Added arrays & loops
+75 Day 75: Edited Example2.sol
