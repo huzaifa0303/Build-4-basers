@@ -95,3 +95,4 @@
 95 Day 95: Added fallback example
 96 Day 96: Edited Example2.sol logic
 97 Day 97: Progress milestone
+98 Day 98: Added nested function
