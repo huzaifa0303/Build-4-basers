@@ -82,3 +82,4 @@
 82 Day 82: Edited fallback function
 83 Day 83: Progress.txt update
 84 Day 84: Added ERC20 practice
+85 Day 85: Edited Example2.sol
