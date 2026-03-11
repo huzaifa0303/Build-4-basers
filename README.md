@@ -94,3 +94,4 @@
 94 Day 94: Edited helper functions
 95 Day 95: Added fallback example
 96 Day 96: Edited Example2.sol logic
+97 Day 97: Progress milestone
