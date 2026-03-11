@@ -58,3 +58,4 @@
 58 Day 58: Added mapping practice
 59 Day 59: Progress note
 60 Day 60: Edited Example2.sol comments
+61 Day 61: Added small contract snippet
