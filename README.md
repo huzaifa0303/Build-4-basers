@@ -92,3 +92,4 @@
 92 Day 92: Added require examples
 93 Day 93: Progress.txt update
 94 Day 94: Edited helper functions
+95 Day 95: Added fallback example
