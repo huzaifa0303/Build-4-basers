@@ -68,3 +68,4 @@
 68 Day 68: Updated notes69 Day 69: Edited Example2.sol
 69 Day 69: Edited Example2.sol
 70 Day 70: Progress milestone
+71 Day 71: Added require/assert
