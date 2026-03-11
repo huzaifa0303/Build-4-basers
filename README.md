@@ -78,3 +78,4 @@
 78 Day 78: Added nested function
 79 Day 79: Edited Example2.sol comments
 80 Day 80: Milestone update
+81 Day 81: Added helper functions
