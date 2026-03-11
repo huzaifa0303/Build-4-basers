@@ -86,3 +86,4 @@
 86 Day 86: Added small snippet
 87 Day 87: Progress update
 88 Day 88: Edited events
+89 Day 89: Added learning notes
