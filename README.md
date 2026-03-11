@@ -48,3 +48,4 @@
 48 Day 48: Edited helper functions
 49 Day 49: Added require/assert examples
 50 Day 50: Milestone half completed
+51 Day 51: Practiced ERC20 transfer
