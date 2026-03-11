@@ -84,3 +84,4 @@
 84 Day 84: Added ERC20 practice
 85 Day 85: Edited Example2.sol
 86 Day 86: Added small snippet
+87 Day 87: Progress update
