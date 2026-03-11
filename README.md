@@ -55,3 +55,4 @@
 55 Day 55: Added events practice
 56 Day 56: Notes on smart contract security
 57 Day 57: Edited functions
+58 Day 58: Added mapping practice
