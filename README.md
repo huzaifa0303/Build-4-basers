@@ -76,3 +76,4 @@
 76 Day 76: Small code optimization Day
 77 Day 77: Progress note
 78 Day 78: Added nested function
+79 Day 79: Edited Example2.sol comments
