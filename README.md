@@ -97,3 +97,4 @@
 97 Day 97: Progress milestone
 98 Day 98: Added nested function
 99 Day 99: Edited Example2.sol
+100 Day 100: Completed
