@@ -74,3 +74,4 @@
 74 Day 74: Added arrays & loops
 75 Day 75: Edited Example2.sol
 76 Day 76: Small code optimization Day
+77 Day 77: Progress note
