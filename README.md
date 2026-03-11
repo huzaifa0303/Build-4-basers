@@ -60,3 +60,4 @@
 60 Day 60: Edited Example2.sol comments
 61 Day 61: Added small contract snippet
 62 Day 62: Updated progress.txt
+63 Day 63: Edited Example2.sol fallback
