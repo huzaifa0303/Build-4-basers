@@ -59,3 +59,4 @@
 59 Day 59: Progress note
 60 Day 60: Edited Example2.sol comments
 61 Day 61: Added small contract snippet
+62 Day 62: Updated progress.txt
