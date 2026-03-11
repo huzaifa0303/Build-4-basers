@@ -69,3 +69,4 @@
 69 Day 69: Edited Example2.sol
 70 Day 70: Progress milestone
 71 Day 71: Added require/assert
+72 Day 72: Edited Example2.sol events
