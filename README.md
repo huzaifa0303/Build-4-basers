@@ -91,3 +91,4 @@
 91 Day 91: Edited Example2.sol
 92 Day 92: Added require examples
 93 Day 93: Progress.txt update
+94 Day 94: Edited helper functions
