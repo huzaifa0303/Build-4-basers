@@ -90,3 +90,4 @@
 90 Day 90: Milestone near completion
 91 Day 91: Edited Example2.sol
 92 Day 92: Added require examples
+93 Day 93: Progress.txt update
