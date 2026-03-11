@@ -64,3 +64,4 @@
 64 Day 64: Added helper function example
 65 Day 65: Progress update
 66 Day 66: Edited Example2.sol logic
+67 Day 67: Added ERC721 function
