@@ -52,3 +52,4 @@
 52 Day 52: Added NFT mint function
 53 Day 53: Updated progress.txt
 54 Day 54: Edited Example2.sol
+55 Day 55: Added events practice
