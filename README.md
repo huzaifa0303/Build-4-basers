@@ -54,3 +54,4 @@
 54 Day 54: Edited Example2.sol
 55 Day 55: Added events practice
 56 Day 56: Notes on smart contract security
+57 Day 57: Edited functions
